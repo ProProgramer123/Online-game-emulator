@@ -1,3 +1,1 @@
 <iframe src='https://math-study.github.io/gba/launchpad.html?gameID=5&gametitle=adventure-blue-chapter-b1.1&fav=true' width="100%" height="500" frameBorder="0" style="border: 0;"></iframe><br>Brought to you by <a href="https://math-study.github.io/gba" target="_blank">math-study.github.io/gba</a>
-
-please use this if creating a site.
